@@ -1,0 +1,6 @@
+Pentium5	733	512	2
+Macintosh	1033	1024	3
+Macbook	733	2044	16
+Acer	2033	1024	64
+Everest	10000	2000	200
+Lenovo	733	1024	5
